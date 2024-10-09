@@ -2,7 +2,7 @@
 
 This repository contains the source code for a web application developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
 
-the data i get to make this repository is from  "https://s3.amazonaws.com/roxiler.com/product_transaction.json"
+the data i used to make this repository is from  "https://s3.amazonaws.com/roxiler.com/product_transaction.json"
 
 It is a transaction data containing id, title, price, description, category, image, sold, dateOfSale
 
